@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lixin\Desktop\SteamForge\build\_deps\json-subbuild\CMakeFiles\bc161bdfeb83944bc9fb469c031c548f\json-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lixin\Desktop\SteamForge\build\_deps\json-subbuild\CMakeFiles\bc161bdfeb83944bc9fb469c031c548f\json-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lixin\Desktop\SteamForge\build\_deps\json-subbuild\CMakeFiles\bc161bdfeb83944bc9fb469c031c548f\json-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lixin\Desktop\SteamForge\build\_deps\json-subbuild\CMakeFiles\bc161bdfeb83944bc9fb469c031c548f\json-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lixin\Desktop\SteamForge\build\_deps\json-subbuild\CMakeFiles\bc161bdfeb83944bc9fb469c031c548f\json-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lixin\Desktop\SteamForge\build\_deps\json-subbuild\CMakeFiles\bc161bdfeb83944bc9fb469c031c548f\json-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lixin\Desktop\SteamForge\build\_deps\json-subbuild\CMakeFiles\bc161bdfeb83944bc9fb469c031c548f\json-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lixin\Desktop\SteamForge\build\_deps\json-subbuild\CMakeFiles\bc161bdfeb83944bc9fb469c031c548f\json-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lixin\Desktop\SteamForge\build\_deps\json-subbuild\CMakeFiles\96e22f80cf6accc296579b2bc30d459d\json-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lixin\Desktop\SteamForge\build\_deps\json-subbuild\CMakeFiles\0d49b0ba23fec19ef8930e8cf50b15fb\json-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lixin\Desktop\SteamForge\build\_deps\json-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\lixin\Desktop\SteamForge\build\_deps\json-subbuild\CMakeFiles\json-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CE1513BD-2903-389A-BEBF-8F0336135601}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

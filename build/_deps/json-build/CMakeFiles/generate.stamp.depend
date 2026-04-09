@@ -1,0 +1,9 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/ExternalProject.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/GNUInstallDirs.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/lixin/Desktop/SteamForge/build/_deps/json-src/CMakeLists.txt
+C:/Users/lixin/Desktop/SteamForge/build/_deps/json-src/cmake/config.cmake.in
+C:/Users/lixin/Desktop/SteamForge/build/_deps/json-src/cmake/nlohmann_jsonConfigVersion.cmake.in
+C:/Users/lixin/Desktop/SteamForge/build/_deps/json-src/cmake/pkg-config.pc.in

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lixin\Desktop\SteamForge\build\CMakeFiles\0bd9c571c72aa687dfc145770b8c453e\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6290CBFC-45CA-39AF-8EB9-680DC590542C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

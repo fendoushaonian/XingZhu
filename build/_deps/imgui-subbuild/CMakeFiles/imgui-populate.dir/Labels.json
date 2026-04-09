@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/lixin/Desktop/SteamForge/build/_deps/imgui-subbuild/CMakeFiles/imgui-populate"
+		},
+		{
+			"file" : "C:/Users/lixin/Desktop/SteamForge/build/_deps/imgui-subbuild/CMakeFiles/62d8f2bcb3d9899fb5679e59eaf15879/imgui-populate.rule"
+		},
+		{
+			"file" : "C:/Users/lixin/Desktop/SteamForge/build/_deps/imgui-subbuild/CMakeFiles/5d71e4659b552a1a93fe276b11210e4e/imgui-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/lixin/Desktop/SteamForge/build/_deps/imgui-subbuild/CMakeFiles/5562fb70f3a2cff8f680f5783e292617/imgui-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/lixin/Desktop/SteamForge/build/_deps/imgui-subbuild/CMakeFiles/5562fb70f3a2cff8f680f5783e292617/imgui-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/lixin/Desktop/SteamForge/build/_deps/imgui-subbuild/CMakeFiles/5562fb70f3a2cff8f680f5783e292617/imgui-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/lixin/Desktop/SteamForge/build/_deps/imgui-subbuild/CMakeFiles/5562fb70f3a2cff8f680f5783e292617/imgui-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/lixin/Desktop/SteamForge/build/_deps/imgui-subbuild/CMakeFiles/5562fb70f3a2cff8f680f5783e292617/imgui-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/lixin/Desktop/SteamForge/build/_deps/imgui-subbuild/CMakeFiles/5562fb70f3a2cff8f680f5783e292617/imgui-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/lixin/Desktop/SteamForge/build/_deps/imgui-subbuild/CMakeFiles/5562fb70f3a2cff8f680f5783e292617/imgui-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/lixin/Desktop/SteamForge/build/_deps/imgui-subbuild/CMakeFiles/5562fb70f3a2cff8f680f5783e292617/imgui-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"imgui-populate"
+		],
+		"name" : "imgui-populate"
+	}
+}
